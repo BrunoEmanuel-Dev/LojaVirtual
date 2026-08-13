@@ -1,0 +1,10 @@
+h1 {color: blueviolet;
+    text-align: center  ;
+}
+.card {
+    border: 1px solid gray; 
+}
+img {
+    width: 200px;
+    height: 200px;
+}
